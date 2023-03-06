@@ -4,6 +4,9 @@ A pack I made for a complete theme for macos has sound to
 # Ubuntu 22.04
 # PopOS 22.04
 
+# Basic setup
+Open settings and put the dock on the bottom and turn off extend to edges
+
 #Install
 1. sudo add-apt-repository universe
 2. sudo apt install gnome-tweak-tool
